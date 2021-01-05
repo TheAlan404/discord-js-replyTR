@@ -2,7 +2,7 @@
 discord.js reply manager
 
 # Kullanım örneği
-
+reply.js için [Tıkla](https://github.com/ashpotter/discord-js-replyTR/blob/main/reply.js)
 
 ```js
 const reply = require("../reply.js")
