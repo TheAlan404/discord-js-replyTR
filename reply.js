@@ -23,7 +23,7 @@ static istrue(d){
 }
 }
       static reply(msg, d,error){ 
-    console.error("[REPLY UTİL] DEPRECATED:.reply yerine lütfen .reply.true yada .reply.false kullanın")
+   // console.error("[REPLY UTİL] DEPRECATED:.reply yerine lütfen .reply.true yada .reply.false kullanın")
          throw new TypeError  ("[REPLY UTİL] DEPRECATED:.reply yerine lütfen .reply.true yada .reply.false kullanın")
     }
     static true(msg, d){ 
