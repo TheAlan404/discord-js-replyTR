@@ -1,5 +1,5 @@
-# discord-js-replyTR
-discord.js reply manager
+# discord-js-replyTR 2.0.0
+discord.js reply manager ama türkiş
 
 # Kullanım örneği
 reply.js için [Tıkla](https://github.com/ashpotter/discord-js-replyTR/blob/main/reply.js)
@@ -20,4 +20,11 @@ reply.false(msg,"mesajın")
 reply.false(message,"mesajın")
 reply.false(m,"mesajın"
 
+```
+
+# Yenilikler
+```md
+2.0.0
+-Tüm return hataları throw new TypeError ile değiştirildi
+-reply.<true/false>.data eklendi
 ```
