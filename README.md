@@ -1,11 +1,10 @@
-# discord-js-replyTR 2.0.0
+# discord-reply-TR 2.0.0
 discord.js reply manager ama türkiş
 
 # Kullanım örneği
-reply.js için [Tıkla](https://github.com/ashpotter/discord-js-replyTR/blob/main/reply.js)
 
 ```js
-const reply = require("../reply.js")
+const reply = require("discord-reply-tr")
 reply.true(message,"mesajın") // etiketli reply 
 /*
 message = mesajı tanımlıyoruz. bu msg yada m de olabilir
@@ -15,7 +14,7 @@ reply.true(m,"mesajın") // etiketli reply
 reply.true(msg,"mesajın") // etiketli reply 
 
 ////// ETİKETSİZ REPLY ÖRNEKLERİ //////
-const reply = require("../reply.js")
+const reply = require("discord-reply-tr")
 reply.false(msg,"mesajın")
 reply.false(message,"mesajın")
 reply.false(m,"mesajın"
