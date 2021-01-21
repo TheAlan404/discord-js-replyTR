@@ -21,6 +21,11 @@ reply.false(m,"mesajın"
 
 ```
 
+
+#İndir lol:
+```js
+npm i discord-reply-tr
+```
 # Yenilikler
 ```md
 2.0.0
