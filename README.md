@@ -22,7 +22,7 @@ reply.false(m,"mesajın"
 ```
 
 
-#İndir lol:
+# İndir lol:
 ```js
 npm i discord-reply-tr
 ```
